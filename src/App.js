@@ -8,6 +8,7 @@ function App() {
       <div className="container-main">
         <div className="container-header">
           <img src={ name } alt="Nome do app" className="logoName"/>
+          <p>somente um teste</p>
         </div>
       </div>
     </div>
